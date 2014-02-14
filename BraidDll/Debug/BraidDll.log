@@ -1,0 +1,78 @@
+﻿Build started 07/02/2014 23:12:20.
+     1>Project "C:\Users\riris\Documents\Visual Studio 2013\Projects\BraidDll\BraidDll\BraidDll.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D BRAIDDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt braid.c fwth_m.c interpolate.c memory_alloc.c NativeLib.c ran1_m.c
+         ran1_m.c
+         NativeLib.c
+         memory_alloc.c
+         interpolate.c
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(32): warning C4101: 'fi' : unreferenced local variable
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(32): warning C4101: 't' : unreferenced local variable
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(31): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(93): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(97): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(98): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(100): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(106): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(108): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(133): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(134): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(135): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(150): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(152): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(153): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(154): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(155): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(157): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(158): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(173): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(175): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(179): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(184): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(187): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(189): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\interpolate.c(190): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         fwth_m.c
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\fwth_m.c(13): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         braid.c
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(55): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(61): warning C4244: 'function' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(42): warning C4101: 'levels' : unreferenced local variable
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(214): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(223): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(225): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(247): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(256): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204) : see declaration of 'strtok'
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(272): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(317): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(343): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(401): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(429): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(295): warning C4101: 'vx' : unreferenced local variable
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(294): warning C4101: 'v' : unreferenced local variable
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(295): warning C4101: 'sx' : unreferenced local variable
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(514): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(519): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(528): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(534): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\riris\documents\visual studio 2013\projects\braiddll\braiddll\braid.c(570): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\riris\Documents\Visual Studio 2013\Projects\BraidDll\Debug\BraidDll.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\riris\Documents\Visual Studio 2013\Projects\BraidDll\Debug\BraidDll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\riris\Documents\Visual Studio 2013\Projects\BraidDll\Debug\BraidDll.lib" /MACHINE:X86 /DLL Debug\braid.obj
+         Debug\fwth_m.obj
+         Debug\interpolate.obj
+         Debug\memory_alloc.obj
+         Debug\NativeLib.obj
+         Debug\ran1_m.obj
+            Creating library C:\Users\riris\Documents\Visual Studio 2013\Projects\BraidDll\Debug\BraidDll.lib and object C:\Users\riris\Documents\Visual Studio 2013\Projects\BraidDll\Debug\BraidDll.exp
+         BraidDll.vcxproj -> C:\Users\riris\Documents\Visual Studio 2013\Projects\BraidDll\Debug\BraidDll.dll
+     1>Done Building Project "C:\Users\riris\Documents\Visual Studio 2013\Projects\BraidDll\BraidDll\BraidDll.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.75
